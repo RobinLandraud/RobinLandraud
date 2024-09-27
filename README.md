@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="WSL" />
-      <br>WSL
+      <br>React
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Redis" />
