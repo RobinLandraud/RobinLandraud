@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/RobinLandraud/RobinLandraud/media/banner.gif" alt="Hello World" title="Hello World"/>
+<img src="https://github.com/RobinLandraud/RobinLandraud/blob/main/media/banner.gif" alt="Hello World" title="Hello World"/>
