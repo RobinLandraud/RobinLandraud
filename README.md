@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/RobinLandraud/RobinLandraud/blob/main/media/banner.gif" alt="Hello World" title="Hello World"/>
 
-## My tools
+## My tools 💻:
 
 <table>
   <tr>
