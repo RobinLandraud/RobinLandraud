@@ -110,6 +110,10 @@ Here are some ideas to get you started:
       <br>Raspberry Pi
     </td>
     <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="Raylib" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
       <br>Unity
     </td>
@@ -120,10 +124,6 @@ Here are some ideas to get you started:
     <td align="center" width="96">
         <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" width="48" height="48" alt="SFML" />
       <br>SFML
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.raylib.com/common/img/raylib_logo.png" width="48" height="48" alt="Raylib" />
-      <br>Raylib
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/107px-Odoo_logo_rgb.svg.png" width="48" height="48" alt="Odoo" />
