@@ -88,7 +88,7 @@ Here are some ideas to get you started:
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://learn.microsoft.com/windows/wsl/media/wsl-icon.svg" width="48" height="48" alt="WSL" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="WSL" />
       <br>WSL
     </td>
     <td align="center" width="96">
@@ -127,6 +127,10 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
   </tr>
