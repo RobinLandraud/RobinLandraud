@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="Redis" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
@@ -34,20 +42,8 @@ Here are some ideas to get you started:
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      <br>Go
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
@@ -57,11 +53,31 @@ Here are some ideas to get you started:
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
       <br>Kubernetes
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -79,10 +95,8 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
@@ -92,14 +106,16 @@ Here are some ideas to get you started:
       <br>WSL
     </td>
     <td align="center" width="96">
-        <img src="https://www.pygame.org/docs/_images/pygame_tiny.png" width="48" alt="Pygame" />
-      <br>Pygame
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Redis" />
+      <br>Raspberry Pi
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
       <br>Unity
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.pygame.org/docs/_images/pygame_tiny.png" width="48" alt="Pygame" />
+      <br>Pygame
     </td>
     <td align="center" width="96">
         <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" width="48" height="48" alt="SFML" />
@@ -116,22 +132,6 @@ Here are some ideas to get you started:
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
       <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Redis" />
-      <br>Redis
     </td>
   </tr>
 </table>
