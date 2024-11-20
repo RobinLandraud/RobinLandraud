@@ -126,7 +126,7 @@ Here are some ideas to get you started:
       <br>SFML
     </td>
     <td align="center" width="96">
-        <img src="https://fr.wikipedia.org/wiki/Fichier:OpenGL_logo.svg" width="48" height="48" alt="Flask" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/768px-OpenGL_logo.svg.png" width="48" height="48" alt="OpenGL" />
       <br>Flask
     </td>
     <td align="center" width="96">
