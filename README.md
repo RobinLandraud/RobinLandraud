@@ -126,12 +126,12 @@ Here are some ideas to get you started:
       <br>SFML
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/107px-Odoo_logo_rgb.svg.png" width="48" height="48" alt="Odoo" />
-      <br>Odoo
+        <img src="https://fr.wikipedia.org/wiki/Fichier:OpenGL_logo.svg" width="48" height="48" alt="Flask" />
+      <br>Flask
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/107px-Odoo_logo_rgb.svg.png" width="48" height="48" alt="Odoo" />
+      <br>Odoo
     </td>
   </tr>
 </table>
