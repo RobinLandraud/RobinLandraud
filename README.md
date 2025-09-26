@@ -1,141 +1,129 @@
-<!--
-**RobinLandraud/RobinLandraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Robin ! :wave:
 
-Here are some ideas to get you started:
+I am 23 years old and passionate about full stack development, deep learning, and graphical computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://github.com/RobinLandraud/RobinLandraud/blob/main/media/banner.gif" alt="Hello World" title="Hello World"/>
+- :mortar_board: 5 years as a CS student at **EPITECH, Bordeaux & Paris, France** (2020-2025)
+- :airplane: 1 year as an CS International Student at **Inha University, Incheon, Korea** (2023-2024)
+- :book: Keep learning
 
 ## My tools 💻:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="Redis" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="WSL" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="Raylib" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Redis" />
-      <br>Raspberry Pi
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.pygame.org/docs/_images/pygame_tiny.png" width="48" alt="Pygame" />
-      <br>Pygame
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" width="48" height="48" alt="SFML" />
-      <br>SFML
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/768px-OpenGL_logo.svg.png" width="48" alt="OpenGL" />
-      <br>OpenGL
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/107px-Odoo_logo_rgb.svg.png" width="48" height="48" alt="Odoo" />
-      <br>Odoo
-    </td>
-  </tr>
-</table>
+### Languages
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img alt="C" height="40" src="https://skillicons.dev/icons?i=c">
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img alt="C++" height="40" src="https://skillicons.dev/icons?i=cpp">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img alt="C#" height="40" src="https://skillicons.dev/icons?i=cs">
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img alt="Python" height="40" src="https://skillicons.dev/icons?i=python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img alt="Javascript" height="40" src="https://skillicons.dev/icons?i=js">
+  </a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer">
+    <img alt="Go" height="40" src="https://skillicons.dev/icons?i=go">
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img alt="Go" height="40" src="https://skillicons.dev/icons?i=lua">
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img alt="html" height="40" src="https://skillicons.dev/icons?i=html">
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img alt="css" height="40" src="https://skillicons.dev/icons?i=css">
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/robin-landraud/">
-    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
+### Frameworks
+<p align="left">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img alt="Django" width="40" height="40" src="https://skillicons.dev/icons?i=django">
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
+    <img alt="Flask" width="40" height="40" src="https://skillicons.dev/icons?i=flask">
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img alt="React" width="40" height="40" src="https://skillicons.dev/icons?i=react">
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img alt="TensorFlow" width="40" height="40" src="https://skillicons.dev/icons?i=tensorflow">
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img alt="Flutter" width="40" height="40" src="https://skillicons.dev/icons?i=flutter">
+  </a>
+</p>
+
+### DevOps & Infrastructure
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img alt="Git" width="40" height="40" src="https://skillicons.dev/icons?i=git">
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img alt="Docker" width="40" height="40" src="https://skillicons.dev/icons?i=docker">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img alt="Kubernetes" width="40" height="40" src="https://skillicons.dev/icons?i=kubernetes">
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img alt="jenkins" width="40" height="40" src="https://skillicons.dev/icons?i=jenkins">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img alt="PostgresSQL" width="40" height="40" src="https://skillicons.dev/icons?i=postgres">
+  </a>
+  <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
+    <img alt="mySQL" width="40" height="40" src="https://skillicons.dev/icons?i=mysql">
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img alt="Redis" width="40" height="40" src="https://skillicons.dev/icons?i=redis">
+  </a>
+</p>
+
+### Softwares
+<p align="left">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img alt="Github" width="40" height="40" src="https://skillicons.dev/icons?i=github">
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img alt="Unity" width="40" height="40" src="https://skillicons.dev/icons?i=unity">
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img alt="Postman" width="40" height="40" src="https://skillicons.dev/icons?i=postman">
+  </a>
+</p>
+
+### Environments
+<p align="left">
+  <a href="https://fr.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
+    <img alt="Linux" width="40" height="40" src="https://skillicons.dev/icons?i=linux">
+  </a>
+  <a href="https://fr.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer">
+    <img alt="Windows" width="40" height="40" src="https://skillicons.dev/icons?i=windows">
+  </a>
+  <a href="https://fr.wikipedia.org/wiki/Windows_Subsystem_for_Linux" target="_blank" rel="noreferrer">
+    <img alt="wsl" width="40" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=wsl">
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img alt="Raspberry Pi" width="40" height="40" src="https://skillicons.dev/icons?i=raspberrypi">
+  </a>
+</p>
+
+<p align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=robinlandraud&show_icons=true&locale=en&theme=gruvbox" alt="robinlandraud" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinlandraud&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="robinlandraud" />
+</tr>
+
+## 📫 How to reach me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/robin-landraud/" target="_blank" rel="noreferrer">
+    <img alt="Linkedin" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  <a href="https://www.malt.fr/profile/robinlandraud1" target="_blank" rel="noreferrer">
+    <img alt="Malt" width="40" height="40" src="https://play-lh.googleusercontent.com/pCYfqB1v-c9Phmvjxji_v37Lf1l59fg1pIy17PztwmS2yoRvGtNAgHZlOHQf0AQo_MZv">
+  </a>
+</p>
