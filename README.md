@@ -22,6 +22,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img alt="Python" height="40" src="https://skillicons.dev/icons?i=python">
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img alt="Typescript" height="40" src="https://skillicons.dev/icons?i=ts">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img alt="Javascript" height="40" src="https://skillicons.dev/icons?i=js">
   </a>
