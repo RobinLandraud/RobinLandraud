@@ -94,6 +94,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img alt="Postman" width="40" height="40" src="https://skillicons.dev/icons?i=postman">
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img alt="Figma" width="40" height="40" src="https://skillicons.dev/icons?i=figma">
+  </a>
 </p>
 
 ### Environments
