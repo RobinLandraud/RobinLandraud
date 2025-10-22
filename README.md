@@ -131,7 +131,7 @@ I am 23 years old and passionate about full stack development, deep learning, an
 <p align="left">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=robinlandraud&show_icons=true&locale=en&theme=gruvbox" alt="robinlandraud" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinlandraud&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="robinlandraud" />
-</tr>
+</p>
 
 ## 📫 How to reach me:
 
