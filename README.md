@@ -56,9 +56,6 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
     <img alt="Vite" width="40" height="40" src="https://skillicons.dev/icons?i=vite">
   </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img alt="Nginx" width="40" height="40" src="https://skillicons.dev/icons?i=nginx">
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img alt="TensorFlow" width="40" height="40" src="https://skillicons.dev/icons?i=tensorflow">
   </a>
@@ -89,6 +86,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img alt="Redis" width="40" height="40" src="https://skillicons.dev/icons?i=redis">
+  </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img alt="Nginx" width="40" height="40" src="https://skillicons.dev/icons?i=nginx">
   </a>
 </p>
 
