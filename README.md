@@ -42,7 +42,7 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
 </p>
 
-### Frameworks
+### Frameworks and librairies
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img alt="Django" width="40" height="40" src="https://skillicons.dev/icons?i=django">
@@ -52,6 +52,12 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img alt="React" width="40" height="40" src="https://skillicons.dev/icons?i=react">
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img alt="Vite" width="40" height="40" src="https://skillicons.dev/icons?i=vite">
+  </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img alt="Nginx" width="40" height="40" src="https://skillicons.dev/icons?i=nginx">
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img alt="TensorFlow" width="40" height="40" src="https://skillicons.dev/icons?i=tensorflow">
