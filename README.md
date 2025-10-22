@@ -53,9 +53,6 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img alt="React" width="40" height="40" src="https://skillicons.dev/icons?i=react">
   </a>
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img alt="Vite" width="40" height="40" src="https://skillicons.dev/icons?i=vite">
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img alt="TensorFlow" width="40" height="40" src="https://skillicons.dev/icons?i=tensorflow">
   </a>
@@ -64,7 +61,7 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
 </p>
 
-### DevOps & Infrastructure
+### DevOps
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img alt="Git" width="40" height="40" src="https://skillicons.dev/icons?i=git">
@@ -78,6 +75,10 @@ I am 23 years old and passionate about full stack development, deep learning, an
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img alt="jenkins" width="40" height="40" src="https://skillicons.dev/icons?i=jenkins">
   </a>
+</p>
+
+### Infrastructure / Web Tools
+<p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img alt="PostgresSQL" width="40" height="40" src="https://skillicons.dev/icons?i=postgres">
   </a>
@@ -86,6 +87,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img alt="Redis" width="40" height="40" src="https://skillicons.dev/icons?i=redis">
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img alt="Vite" width="40" height="40" src="https://skillicons.dev/icons?i=vite">
   </a>
   <a href="https://nginx.org/" target="_blank" rel="noreferrer">
     <img alt="Nginx" width="40" height="40" src="https://skillicons.dev/icons?i=nginx">
