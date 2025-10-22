@@ -61,7 +61,7 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
 </p>
 
-### DevOps
+### DevOps / Build Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img alt="Git" width="40" height="40" src="https://skillicons.dev/icons?i=git">
@@ -74,6 +74,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img alt="jenkins" width="40" height="40" src="https://skillicons.dev/icons?i=jenkins">
+  </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img alt="CMake" width="40" height="40" src="https://skillicons.dev/icons?i=cmake">
   </a>
 </p>
 
@@ -96,7 +99,7 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
 </p>
 
-### Softwares
+### Softwares / IDE
 <p align="left">
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img alt="Github" width="40" height="40" src="https://skillicons.dev/icons?i=github">
@@ -109,6 +112,12 @@ I am 23 years old and passionate about full stack development, deep learning, an
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img alt="Figma" width="40" height="40" src="https://skillicons.dev/icons?i=figma">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img alt="VSCode" width="40" height="40" src="https://skillicons.dev/icons?i=vscode">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img alt="PyCharm" width="40" height="40" src="https://skillicons.dev/icons?i=pycharm">
   </a>
 </p>
 
