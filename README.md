@@ -32,12 +32,12 @@ I am 23 years old and passionate about full stack development, deep learning, an
     <img alt="Go" height="40" src="https://skillicons.dev/icons?i=go">
   </a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img alt="Go" height="40" src="https://skillicons.dev/icons?i=lua">
+    <img alt="Lua" height="40" src="https://skillicons.dev/icons?i=lua">
   </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img alt="html" height="40" src="https://skillicons.dev/icons?i=html">
   </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img alt="css" height="40" src="https://skillicons.dev/icons?i=css">
   </a>
 </p>
@@ -84,6 +84,9 @@ I am 23 years old and passionate about full stack development, deep learning, an
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img alt="PostgresSQL" width="40" height="40" src="https://skillicons.dev/icons?i=postgres">
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img alt="SQLite" width="40" height="40" src="https://skillicons.dev/icons?i=sqlite">
   </a>
   <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
     <img alt="mySQL" width="40" height="40" src="https://skillicons.dev/icons?i=mysql">
